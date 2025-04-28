@@ -1,9 +1,7 @@
 # RoyEncoder - HTML Encryptor Tool
 
-![RoyEncoder Preview](https://i.ibb.co/placeholder-image.png)
+![RoyEncoder Preview](https://raw.githubusercontent.com/Shozon-Roy/RoyEncoder/refs/heads/main/20250429_005636.jpg)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://your-live-link-here)
-[![GitHub license](https://img.shields.io/github/license/shozon-roy/royencoder)](https://github.com/shozon-roy/royencoder/blob/main/LICENSE)
 
 ## 🚀 Project Overview
 
