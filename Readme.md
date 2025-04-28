@@ -7,6 +7,9 @@
 
 RoyEncoder is a powerful and user-friendly HTML encryption tool that allows developers to obfuscate their HTML code securely. With its sleek interface and efficient functionality, it provides an easy way to protect your HTML content from being easily readable while maintaining full functionality.
 
+
+### Live Demo [Live Demo](https://royencoder.vercel.app/)
+
 ### ✨ Key Features
 
 - 🔒 HTML Code Encryption
@@ -56,6 +59,9 @@ git clone https://github.com/shozon-roy/royencoder.git
 2. **Encryption**: Click "Obfuscate Code" to encrypt your HTML
 3. **Output**: Get your encrypted code in the second textarea
 4. **Export**: Copy to clipboard or save to a file
+
+
+### Live Demo [Live Demo](https://royencoder.vercel.app/)
 
 ## 👨‍💻 Author
 
