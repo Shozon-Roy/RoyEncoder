@@ -57,25 +57,17 @@ git clone https://github.com/shozon-roy/royencoder.git
 3. **Output**: Get your encrypted code in the second textarea
 4. **Export**: Copy to clipboard or save to a file
 
-## 🔍 Preview
-
-### Light Theme
-![Light Theme Preview](https://i.ibb.co/placeholder-light-theme.png)
-
-### Dark Theme
-![Dark Theme Preview](https://i.ibb.co/placeholder-dark-theme.png)
-
 ## 👨‍💻 Author
 
 **Shozon Roy**
 
 Connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shozon-roy)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shozon.roy.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shozon.roy.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shozon_tech)
-
+- **Social Media**:
+- [GitHub](https://github.com/shozon-roy)
+- [Facebook](https://www.facebook.com/shozon.roy2)
+- [Instagram](https://www.instagram.com/shozon_roy)
+- [Telegram](https://t.me/shozonroy2)
+---
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
